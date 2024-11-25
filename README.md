@@ -122,7 +122,7 @@ Feel free to reach out for collaborations, job opportunities, or any queries reg
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](./LICENCE).
 
 ---
 
